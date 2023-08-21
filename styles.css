@@ -1,0 +1,127 @@
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: #303030;
+    color: #f5f6f7;
+    font-family: Tahoma;
+    font-size: 16px;
+    justify-content: center;
+  }
+  
+  /* this is the picture of ashkar */
+
+  #logo {    
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: 10%;
+  }
+
+  /* this is the end of the picture of ashkar */
+
+  /* this is nav bar */
+    nav {
+      background-color: #333;
+      padding: 10px;
+      text-align: center;
+    }
+  
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+  
+    li {
+      display: inline-block;
+      margin-right: 15px;
+    }
+  
+    a {
+      text-decoration: none;
+      color: white;
+    }
+  
+    a:hover {
+      text-decoration: underline;
+    }
+  /* this is the end of the nav bar */
+
+  /* this is the main header "Ashkar, Son of the transworld" */
+
+    h1 {
+        text-align: center;
+        font-family: Allura;
+    }
+
+  /* end of header here */
+
+  /* About ashkar section */
+
+  h2 {
+    text-align: center;
+  }
+
+  #about {
+    border: 2px solid #333;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #333;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info {
+    border: 2px solid #333;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #333;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #inline-paragraph {
+    display: block;
+    margin-bottom: 15px;
+  }
+
+  /* end of about ashkar section */
+
+  /* start of char sheet section */
+
+  #img-div {
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+    border: 2px solid #333;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #333;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #image {
+    text-align: center;
+    border: 2px solid #333;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #333;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #img-caption {
+   font-size: small;
+  }
+/* end of charsheet */
+
+  #tribute-info {
+    text-align: center;
+  }
